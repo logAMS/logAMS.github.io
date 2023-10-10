@@ -65,6 +65,13 @@ We are part of a global network of local meetups
 * Hosted by Elsevier on Radarweg 29a, 1043 NX Amsterdam. 
 * Coffee and lunch provided.
 
+
+### Organisers
+
+<p align="center">
+    <img src="img/logams-organisers-logo.jpg" alt="logams-organisers", width="800px"/>
+</p>
+
 ## Agenda
 
 By attending logAMS, you will have the opportunity to:
