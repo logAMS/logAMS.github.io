@@ -81,7 +81,7 @@ By attending logAMS, you will have the opportunity to:
 * Share your own research and insights during poster sessions and interactive discussions. 
 * Stay up-to-date with the latest trends and advancements in machine learning on graphs and geometry.
 
-## Important Dates
+## Dates
 
 * October 10, 2023. Registration opens.
 * November 14, 2023. Registration closes.
