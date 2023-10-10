@@ -45,11 +45,11 @@ We are part of a global network of local meetups
 
 - :us: Stanford, USA.
 - :de: Munich, Germany.
-- :flag-nl: Amsterdam, Netherlands.
+- :netherlands: Amsterdam, Netherlands.
 - :cn: Shanghai, China.
-- :flag-ch: Lausanne, Switzerland.
+- :switzerland: Lausanne, Switzerland.
 - :fr: Paris, France.
-- :flag-no: Tromso, Norway.
+- :norway: Tromso, Norway.
 - :us: Michigan, USA.
 - :es: Madrid, Spain.
 - :cn: Beijing, China.
