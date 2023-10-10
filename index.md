@@ -8,20 +8,17 @@ logAMS 2023
 </p>
 
 <p align="center">
-<a href="">
-    <img src="https://img.shields.io/badge/python-3.10.8-blue.svg" alt="Python 3.10.8">
+<a href="https://logconference.org">
+    <img src="https://img.shields.io/badge/👩‍💻_LOG_Conference_-Meetup-blue">
 </a>
 <a href="">
-    <img src="https://img.shields.io/badge/Pytorch-informational?style=flat&logo=pytorch&color=grey" alt="Pytorch">
+    <img src="https://img.shields.io/badge/📍_Location-Amsterdam_NL-blue">
 </a>
-<a href="https://pytorchlightning.ai">
-    <img src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
+<a href="">
+    <img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
 </a>
-<a href="https://optuna.org">
-    <img src="https://img.shields.io/badge/Optuna-integrated-blue" alt="Optuna integrated" height="20">
-  </a>
+</p>
 
-</P>
 
 <p align="center">
 Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LOG Conference</a>. Hosted by Elsevier & VU University on November 29 + 30, 2023.
