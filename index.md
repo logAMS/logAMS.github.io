@@ -28,7 +28,7 @@ Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam 
   <a href="#dates">Agenda</a> •
   <a href="#dates">Dates</a> •
   <a href="#registration">Registration</a> •
-  <a href="#contact">Contact</a>
+  <a href="#contact">Contact</a> •
   <a href="#contact">Organization</a>
 </p>
 
