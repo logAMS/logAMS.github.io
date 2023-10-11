@@ -25,10 +25,11 @@ Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam 
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#agenda">Agenda</a> •
+  <a href="#dates">Agenda</a> •
   <a href="#dates">Dates</a> •
   <a href="#registration">Registration</a> •
   <a href="#contact">Contact</a>
+  <a href="#contact">Organization</a>
 </p>
 
 
@@ -45,11 +46,7 @@ The logAMS conference is a satellite event of the global LOG Conference, featuri
 * Coffee and lunch provided.
 
 
-### Organisers
 
-<p align="center">
-    <img src="img/logams-organisers-logo.jpg" alt="logams-organisers", width="800px"/>
-</p>
 
 ## Agenda
 
@@ -62,7 +59,7 @@ By attending logAMS, you will have the opportunity to:
 ## Dates
 
 * October 10, 2023. Registration opens
-* November 14, 2023. Registration closes
+* November 10, 2023. Registration closes
 * November 29 + 30, 2023. Conference
 
 ## Registration
@@ -87,14 +84,16 @@ We look forward to seeing you at logAMS and contributing to the thriving machine
 <img src="img/xander.jpg" alt="Xander Wilcke", width="200px"/>
 </p>
 
-
+<p align="center">
+    <img src="img/logams-organisers-logo.jpg" alt="logams-organisers", width="800px"/>
+</p>
 
 
 We are part of a global network of local meetups
 
 - :us: Stanford, USA.
 - :de: Munich, Germany.
-- :netherlands: Amsterdam, Netherlands.
+- [:netherlands: Amsterdam, Netherlands](logams.github.io).
 - :cn: Shanghai, China.
 - :switzerland: Lausanne, Switzerland.
 - :fr: Paris, France.
