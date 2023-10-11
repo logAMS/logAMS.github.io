@@ -38,22 +38,6 @@ Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam 
 
 The logAMS conference is a satellite event of the global LOG Conference, featuring a diverse range of presentations, workshops, and networking opportunities. We aim to create a friendly and inclusive environment for participants to engage with the latest research and innovations in machine learning on graphs and geometry.
 
-We are part of a global network of local meetups
-
-- :us: Stanford, USA.
-- :de: Munich, Germany.
-- :netherlands: Amsterdam, Netherlands.
-- :cn: Shanghai, China.
-- :switzerland: Lausanne, Switzerland.
-- :fr: Paris, France.
-- :norway: Tromso, Norway.
-- :us: Michigan, USA.
-- :es: Madrid, Spain.
-- :cn: Beijing, China.
-- :it: Trento, Italy.
-- :us: New York, US.
-- :gb: London, UK.
-
 
 ### Details
 
@@ -73,16 +57,15 @@ We are part of a global network of local meetups
 
 By attending logAMS, you will have the opportunity to:
 * Learn from leading experts in the field through keynote talks and research presentations. 
-* Participate in hands-on workshops to expand your knowledge and skills. 
 * Network with fellow researchers, professionals, and enthusiasts in the community. 
 * Share your own research and insights during poster sessions and interactive discussions. 
 * Stay up-to-date with the latest trends and advancements in machine learning on graphs and geometry.
 
 ## Dates
 
-* October 10, 2023. Registration opens.
-* November 14, 2023. Registration closes.
-* November 29 + 30, 2023. Event.
+* October 10, 2023. Registration opens
+* November 14, 2023. Registration closes
+* November 29 + 30, 2023. Conference
 
 ## Registration
 Are you interested in attending logAMS? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSdiVfSgzksCufn3NyZKo2kf8Ypq5e8vIRjcKY6pcjtgXGB9xw/viewform).
@@ -92,3 +75,34 @@ Are you interested in attending logAMS? Please register with this [form](https:/
 For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team at [logams@logconference.org](mailto:logams@logconference.org).
 
 We look forward to seeing you at logAMS and contributing to the thriving machine learning on graphs and geometry community!
+
+## Organization ##
+* Michael Cochez 
+* Thom Pijnenburg
+* Shujian Yu
+* Xander Wilcke
+
+<img src="img/michael.jpg" alt="Michael Cochez", width="200px"/>
+<img src="img/thom.jpg" alt="Thom Pijnenburg", width="200px"/>
+<img src="img/shujian.jpg" alt="Shujian Yu", width="200px"/>
+<img src="img/xander.jpg" alt="Xander Wilcke", width="200px"/>
+
+
+
+
+
+We are part of a global network of local meetups
+
+- :us: Stanford, USA.
+- :de: Munich, Germany.
+- :netherlands: Amsterdam, Netherlands.
+- :cn: Shanghai, China.
+- :switzerland: Lausanne, Switzerland.
+- :fr: Paris, France.
+- :norway: Tromso, Norway.
+- :us: Michigan, USA.
+- :es: Madrid, Spain.
+- :cn: Beijing, China.
+- :it: Trento, Italy.
+- :us: New York, US.
+- :gb: London, UK.
