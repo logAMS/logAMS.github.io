@@ -67,7 +67,7 @@ Are you interested in attending logAMS? Please register with this [form](https:/
 
 ## Contact
 
-For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team.
+For any inquiries or questions about logAMS, please feel free to get in touch with our organising team.
 
 
 ## Organisation ##
