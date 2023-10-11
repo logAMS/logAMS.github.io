@@ -92,7 +92,7 @@ We are part of a global network of local meetups
 
 - :us: Stanford, USA.
 - :de: Munich, Germany.
-- [:netherlands: Amsterdam, Netherlands](logams.github.io).
+- [:netherlands: Amsterdam, Netherlands](http://logams.github.io).
 - :cn: Shanghai, China.
 - :switzerland: Lausanne, Switzerland.
 - :fr: Paris, France.
