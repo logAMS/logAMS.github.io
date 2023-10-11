@@ -84,7 +84,7 @@ We look forward to seeing you at logAMS and contributing to the thriving machine
 
 <img src="img/michael.jpg" alt="Michael Cochez", width="200px"/>
 <img src="img/thom.jpg" alt="Thom Pijnenburg", width="200px"/>
-<img src="img/shujian.jpg" alt="Shujian Yu", width="200px"/>
+<img src="img/yushujian.jpg" alt="Shujian Yu", width="200px"/>
 <img src="img/xander.jpg" alt="Xander Wilcke", width="200px"/>
 
 
