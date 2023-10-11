@@ -25,11 +25,10 @@ Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam 
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#dates">Agenda</a> •
   <a href="#dates">Dates</a> •
   <a href="#registration">Registration</a> •
   <a href="#contact">Contact</a> •
-  <a href="#contact">Organization</a>
+  <a href="#organization">Organization</a>
 </p>
 
 
@@ -46,7 +45,7 @@ The logAMS conference is a satellite event of the global LOG Conference, featuri
 * Coffee and lunch provided.
 
 
-
+<!--
 
 ## Agenda
 
@@ -55,6 +54,7 @@ By attending logAMS, you will have the opportunity to:
 * Network with fellow researchers, professionals, and enthusiasts in the community. 
 * Share your own research and insights during poster sessions and interactive discussions. 
 * Stay up-to-date with the latest trends and advancements in machine learning on graphs and geometry.
+-->
 
 ## Dates
 
