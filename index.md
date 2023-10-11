@@ -4,7 +4,7 @@ logAMS 2023
 </h1>
 
 <p align="center">
-    <img src="img/logAMS.jpg" alt="logAMS banner", width="800px"/>
+    <img src="./img/logAMS.jpg" alt="logAMS banner", width="800px"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The logAMS conference is a satellite event of the global LoG Conference, featuri
 ### Details
 
 * Meet-up on November 29 + 30, 2023.
-* The event is **free** :sparkles: to attend.
+* The event is **free** ✨ to attend.
 * Hosted by Elsevier at Radarweg 29a, 1043 NX Amsterdam. 
 * Coffee and lunch provided.
 
@@ -77,29 +77,29 @@ For any inquiries or questions about logAMS, please feel free to get in touch wi
 * Xander Wilcke
 
 <p align="center">
-<img src="img/michael.jpg" alt="Michael Cochez", width="200px"/>
-<img src="img/thom.jpg" alt="Thom Pijnenburg", width="200px"/>
-<img src="img/yushujian.jpg" alt="Shujian Yu", width="200px"/>
-<img src="img/xander.jpg" alt="Xander Wilcke", width="200px"/>
+<img src="./img/michael.jpg" alt="Michael Cochez", width="200px"/>
+<img src="./img/thom.jpg" alt="Thom Pijnenburg", width="200px"/>
+<img src="./img/yushujian.jpg" alt="Shujian Yu", width="200px"/>
+<img src="./img/xander.jpg" alt="Xander Wilcke", width="200px"/>
 </p>
 
 <p align="center">
-    <img src="img/logams-organisers-logo.jpg" alt="logams-organisers", width="800px"/>
+    <img src="./img/logams-organisers-logo.jpg" alt="logams-organisers", width="800px"/>
 </p>
 
 
 We are part of a global network of local meetups
 
-- :us: Stanford, USA.
-- :de: Munich, Germany.
-- [:netherlands: Amsterdam, Netherlands](http://logams.github.io).
-- :cn: Shanghai, China.
-- :switzerland: Lausanne, Switzerland.
-- :fr: Paris, France.
-- :norway: Tromso, Norway.
-- :us: Michigan, USA.
-- :es: Madrid, Spain.
-- :cn: Beijing, China.
-- :it: Trento, Italy.
-- :us: New York, US.
-- :gb: London, UK.
+- 🇺🇸 Stanford, USA.
+- 🇩🇪 Munich, Germany.
+- [🇳🇱 Amsterdam, Netherlands](http://logams.github.io).
+- 🇨🇳 Shanghai, China.
+- 🇨🇭 Lausanne, Switzerland.
+- 🇫🇷 Paris, France.
+- 🇳🇴 Tromso, Norway.
+- 🇺🇸 Michigan, USA.
+- 🇪🇸 Madrid, Spain.
+- 🇨🇳 Beijing, China.
+- 🇮🇹 Trento, Italy.
+- 🇺🇸 New York, US.
+- 🇬🇧 London, UK.
