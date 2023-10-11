@@ -41,7 +41,7 @@ The logAMS conference is a satellite event of the global LoG Conference, featuri
 
 * Meet-up on November 29 + 30, 2023.
 * The event is **free** :sparkles: to attend.
-* Hosted by Elsevier on Radarweg 29a, 1043 NX Amsterdam. 
+* Hosted by Elsevier at Radarweg 29a, 1043 NX Amsterdam. 
 * Coffee and lunch provided.
 
 
