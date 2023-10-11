@@ -67,7 +67,7 @@ Are you interested in attending logAMS? Please register with this [form](https:/
 
 ## Contact
 
-For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team at [logams@logconference.org](mailto:logams@logconference.org).
+For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team.
 
 We look forward to seeing you at logAMS and contributing to the thriving machine learning on graphs and geometry community!
 
