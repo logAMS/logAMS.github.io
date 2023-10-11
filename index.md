@@ -11,12 +11,11 @@ logAMS 2023
 <a href="https://logconference.org">
     <img src="https://img.shields.io/badge/👩‍💻_LOG_Conference_-Meetup-blue">
 </a>
-<a href="">
+<a href="https://maps.app.goo.gl/8tT9rKREhpkXakK77">
     <img src="https://img.shields.io/badge/📍_Location-Amsterdam_NL-blue">
 </a>
-<a href="">
+
     <img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
-</a>
 </p>
 
 
