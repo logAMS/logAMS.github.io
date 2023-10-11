@@ -16,7 +16,7 @@ logAMS 2023
 </a>
 <p>
     <img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
-</p>p>
+</p>
 </p>
 
 
