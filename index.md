@@ -19,7 +19,7 @@ logAMS 2023
 
 
 <p align="center">
-Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LOG Conference</a>. Hosted by Elsevier & VU University on November 29 + 30, 2023.
+Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 29 + 30, 2023.
 </p>
 
 
@@ -34,7 +34,7 @@ Welcome to the official landing page for <strong>logAMS</strong>, the Amsterdam 
 
 ## About
 
-The logAMS conference is a satellite event of the global LOG Conference, featuring a diverse range of presentations, workshops, and networking opportunities. We aim to create a friendly and inclusive environment for participants to engage with the latest research and innovations in machine learning on graphs and geometry.
+The logAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry.
 
 
 ### Details
@@ -58,18 +58,17 @@ By attending logAMS, you will have the opportunity to:
 
 ## Dates
 
-* October 10, 2023. Registration opens
-* November 10, 2023. Registration closes
-* November 29 + 30, 2023. Conference
+* October 10, 2023. Registration opens.
+* November 10, 2023. Registration closes.
+* November 29 + 30, 2023. Conference.
 
 ## Registration
-Are you interested in attending logAMS? Please register with this [form](https://docs.google.com/forms/d/e/1FAIpQLSdiVfSgzksCufn3NyZKo2kf8Ypq5e8vIRjcKY6pcjtgXGB9xw/viewform).
+Are you interested in attending logAMS? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
 
 ## Contact
 
 For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team.
 
-We look forward to seeing you at logAMS and contributing to the thriving machine learning on graphs and geometry community!
 
 ## Organization ##
 * Michael Cochez 
