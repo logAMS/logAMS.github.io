@@ -14,7 +14,7 @@ logAMS 2023
 <a href="https://maps.app.goo.gl/8tT9rKREhpkXakK77">
     <img src="https://img.shields.io/badge/📍_Location-Amsterdam_NL-blue">
 </a>
-    <img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
+<img src="https://img.shields.io/badge/🗓️_Date_-November_29+30-blue">
 </p>
 
 
