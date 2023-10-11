@@ -28,7 +28,7 @@ Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the
   <a href="#dates">Dates</a> •
   <a href="#registration">Registration</a> •
   <a href="#contact">Contact</a> •
-  <a href="#organization">Organization</a>
+  <a href="#organisation">Organisation</a>
 </p>
 
 
@@ -70,13 +70,13 @@ Are you interested in attending logAMS? Please register with this [form](https:/
 For any inquiries or questions about logAMS, please feel free to get in touch with our organizing team.
 
 
-## Organization ##
+## Organisation ##
 * Michael Cochez 
 * Thom Pijnenburg
 * Shujian Yu
 * Xander Wilcke
 
-<p>
+<p align="center">
 <img src="img/michael.jpg" alt="Michael Cochez", width="200px"/>
 <img src="img/thom.jpg" alt="Thom Pijnenburg", width="200px"/>
 <img src="img/yushujian.jpg" alt="Shujian Yu", width="200px"/>
