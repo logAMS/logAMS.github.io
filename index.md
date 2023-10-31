@@ -77,14 +77,20 @@ For any inquiries or questions about logAMS, please feel free to get in touch wi
 * Daniel Daza
 * Shujian Yu
 * Xander Wilcke
+* Taewoon Kim
+* Ruud van Bakel
+* Yannick Brunink
 
 <p align="center">
 <img src="./img/michael.jpg" alt="Michael Cochez" width="200px"/>
 <img src="./img/thom.jpg" alt="Thom Pijnenburg" width="200px"/>
-<img src="./img/dimitris.png" alt="Xander Wilcke" width="200px"/>
-<img src="./img/daniel.png" alt="Xander Wilcke" width="200px"/>
+<img src="./img/dimitris.png" alt="Dimitrios Alivanistos" width="200px"/>
+<img src="./img/daniel.png" alt="Daniel Daza" width="200px"/>
 <img src="./img/yushujian.jpg" alt="Shujian Yu" width="200px"/>
 <img src="./img/xander.jpg" alt="Xander Wilcke" width="200px"/>
+<img src="./img/taewoon.png" alt="Taewoon Kim" width="200px"/>
+<img src="./img/ruud.png" alt="Xander Wilcke" width="200px"/>
+<img src="./img/yannick.png" alt="Yannick" width="200px"/>
 </p>
 
 <p align="center">
