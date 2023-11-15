@@ -59,7 +59,7 @@ By attending logAMS, you will have the opportunity to:
 ## Dates
 
 * October 10, 2023. Registration opens.
-* November 13, 2023. Registration closes.
+* November 13, 2023. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
 * November 29 + 30, 2023. Conference.
 
 ## Registration
