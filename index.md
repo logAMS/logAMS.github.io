@@ -62,6 +62,40 @@ By attending logAMS, you will have the opportunity to:
 * November 13, 2023. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
 * November 29 + 30, 2023. Conference.
 
+## Schedule
+
+### 29 November
+|`Time` |      `Event `     |  `Details` |
+|:----------:|:-------------:|:------|
+| 09:30 - 10:00 | Registration and coffee | |
+| 10:00 - 10:15 | Welcome                 |  |
+| 10:15 - 10:45 | Talk: Kofinas, M.  | Neural Networks are Graphs! GNNs for equivariant processing of NNs |
+| 10:45 - 11:15 | Talk: Younesian, T.  | GRAPES: Learning to sample graphs for scalable GNNs |
+| 11:30 - 12:00 | Talk: Cavallo, A.   | GNNs on heterophilous graphs |
+| 12:00 - 13:00 | Lunch | |
+| 13:00 - 15:00 | Poster Session |  |
+| 15:00 - 15:30 | Talk: Jayalath, D. and Jürß, J. | Recursive Algorithmic Reasoning |
+| 16:00 - 16:30 | Talk: Wolf, H. and Oeljeklaus, L. | Structural Node Embeddings w. Homomorphism Counts |
+| 16:45 - 17:15 | Talk: Zhao, T. | Multi-label Node Classification On Graph-Structured Data |
+| 17:15 - 19:00 |    Drinks   |    |
+| 19:00 - 20:00 | Keynote LoG |  Stefanie Jegelka   |
+
+
+### 28 November
+
+|`Time` |      `Event `     |  `Details` |
+|:----------:|:-------------:|:------|
+| 09:30 - 10:00 | Registration and coffee | |
+| 10:00 - 10:15 | Welcome                 |  |
+| 10:15 - 10:45 | Talk: Stephenson, M.  |  |
+| 10:45 - 11:15 | Talk: Romijnders, R.  | No Time To Waste: practical statistical contact tracing with few low-bit messages |
+| 11:30 - 12:00 | Talk: Khosla, M.   | Private Graph Reconstruction via Feature Explanations |
+| 12:00 - 13:00 | Lunch |  |
+| 13:00 - 15:00 | Poster Session |  |
+| 15:00 - 15:30 | Talk: Isufi, E. |  GNNs in Stochastic Environment and ML on Higher Order Networks |
+| 15:30 - 17:00 |    Drinks   |    |
+| 17:00 - 18:00 | Keynote LoG | Kyle Cranmer  |
+
 ## Registration
 Are you interested in attending logAMS? Please register with this [form](https://forms.gle/U6vNbG6SwYQ362278).
 
