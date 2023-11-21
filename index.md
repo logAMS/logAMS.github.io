@@ -67,9 +67,9 @@ By attending logAMS, you will have the opportunity to:
 ### 29 November
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| 09:30 - 10:00 | Registration and coffee | |
-| 10:00 - 10:15 | Welcome                 |  |
-| 10:15 - 10:45 | Talk: Kofinas, M.  | Neural Networks are Graphs! GNNs for equivariant processing of NNs |
+|  <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
+| 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
+| 10:15 - 10:45 | Talk | Neural Networks are Graphs! GNNs for equivariant processing of NNs  |
 | 10:45 - 11:15 | Talk: Younesian, T.  | GRAPES: Learning to sample graphs for scalable GNNs |
 | 11:30 - 12:00 | Talk: Cavallo, A.   | GNNs on heterophilous graphs |
 | 12:00 - 13:00 | Lunch | |
@@ -81,12 +81,12 @@ By attending logAMS, you will have the opportunity to:
 | 19:00 - 20:00 | Keynote LoG |  Stefanie Jegelka   |
 
 
-### 28 November
+### 30 November
 
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| 09:30 - 10:00 | Registration and coffee | |
-| 10:00 - 10:15 | Welcome                 |  |
+| <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
+| 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
 | 10:15 - 10:45 | Talk: Stephenson, M.  |  |
 | 10:45 - 11:15 | Talk: Romijnders, R.  | No Time To Waste: practical statistical contact tracing with few low-bit messages |
 | 11:30 - 12:00 | Talk: Khosla, M.   | Private Graph Reconstruction via Feature Explanations |
