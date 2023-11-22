@@ -88,7 +88,7 @@ By attending logAMS, you will have the opportunity to:
 |:----------:|:-------------:|:------|
 | <span style="white-space: nowrap;">09:30 - 10:00</span> | Registration and coffee | |
 | 10:00 - 10:15 | Welcome |                 |  |
-| 10:15 - 10:45 | Talk: Matthew Stephenson  |  |
+| 10:15 - 10:45 | <span style="white-space: nowrap;">Talk: Matthew Stephenson </span> |  |
 | 10:45 - 11:15 | Talk: Rob Romijnders  | No Time To Waste: practical statistical contact tracing with few low-bit messages |
 | 11:30 - 12:00 | Talk: Megha Khosla   | Private Graph Reconstruction via Feature Explanations |
 | 12:00 - 13:00 | Lunch |  |
