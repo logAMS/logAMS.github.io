@@ -66,7 +66,7 @@ By attending logAMS, you will have the opportunity to:
 
 ### 29 November
 
-|`Time` |      `Event `     |  `Details` |
+|`     Time     ` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
 |  <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
 | 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
@@ -84,7 +84,7 @@ By attending logAMS, you will have the opportunity to:
 
 ### 30 November
 
-|`Time` |      `Event `     |  `Details` |
+|`     Time     ` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
 | <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
 | 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
