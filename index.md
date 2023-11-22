@@ -65,6 +65,7 @@ By attending logAMS, you will have the opportunity to:
 ## Schedule
 
 ### 29 November
+
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
 |  <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
