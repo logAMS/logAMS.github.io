@@ -68,7 +68,7 @@ By attending logAMS, you will have the opportunity to:
 
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| 09:30-10:00 | Registration and coffee | |
+| <span style="white-space: nowrap;">09:30 - 10:00</span> | Registration and coffee | |
 | 10:00-10:15 | <div style="width:200"> Welcome </div>|                 |  |
 | 10:15-10:45 | Talk: Miltos Kofinas | Neural Networks are Graphs! GNNs for equivariant processing of NNs  |
 | 10:45-11:15 | Talk: Taraneh Younesian  | GRAPES: Learning to sample graphs for scalable GNNs |
