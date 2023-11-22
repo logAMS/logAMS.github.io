@@ -66,20 +66,20 @@ By attending logAMS, you will have the opportunity to:
 
 ### 29 November
 
-|`     ` `Time` `     ` |      `Event `     |  `Details` |
+|`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| 09:30 - 10:00 | Registration and coffee | |
-| 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
-| 10:15 - 10:45 | Talk: Miltos Kofinas | Neural Networks are Graphs! GNNs for equivariant processing of NNs  |
-| 10:45 - 11:15 | Talk: Taraneh Younesian  | GRAPES: Learning to sample graphs for scalable GNNs |
-| 11:30 - 12:00 | Talk: Andrea Cavallo   | GNNs on heterophilous graphs |
-| 12:00 - 13:00 | Lunch | |
-| 13:00 - 15:00 | Poster Session |  Graph neural networks for metamodelling urban drainage systems (Alexander Garzón) <br /> Physics-Based Graph Neural Networks for Rapid Spatio-Temporal Flood Modelling (Roberto Bentivoglio) <br /> Anomaly Detection in Continuous-Time Temporal Provenance Graphs (Jakub Reha) <br />Graph Isomorphic Networks for Reliability Assessments in the MV Energy Grid (Charlotte Cambier van Nooten) <br /> Heterophily-Based Graph Neural Network for Imbalanced Classification (Yuntao Li) <br /> No time to waste: practical statistical contact tracing with few low-bit messages (Rob Romijnders) <br /> The Role of Personal Perspectives in Open-Domain Dialogue (Selene Baez Santamaria) <br /> Adapting Neural Link Predictors for Data-Efficient Complex Query Answering (Daniel Daza) |
-| 15:00 - 15:30 | Talk: Dulhan Jayalath and Jonas Jürß | Recursive Algorithmic Reasoning |
-| 16:00 - 16:30 | Talk: Hinrikus Wolf and Luca Oeljeklaus | Structural Node Embeddings w. Homomorphism Counts |
-| 16:45 - 17:15 | Talk: Tianqi Zhao | Multi-label Node Classification On Graph-Structured Data |
-| 17:15 - 19:00 |    Drinks   |    |
-| 19:00 - 20:00 | Keynote LoG |  Stefanie Jegelka   |
+| 09:30-10:00 | Registration and coffee | |
+| 10:00-10:15 | <div style="width:200"> Welcome </div>|                 |  |
+| 10:15-10:45 | Talk: Miltos Kofinas | Neural Networks are Graphs! GNNs for equivariant processing of NNs  |
+| 10:45-11:15 | Talk: Taraneh Younesian  | GRAPES: Learning to sample graphs for scalable GNNs |
+| 11:30-12:00 | Talk: Andrea Cavallo   | GNNs on heterophilous graphs |
+| 12:00-13:00 | Lunch | |
+| 13:00-15:00 | Poster Session |  Graph neural networks for metamodelling urban drainage systems (Alexander Garzón) <br /> Physics-Based Graph Neural Networks for Rapid Spatio-Temporal Flood Modelling (Roberto Bentivoglio) <br /> Anomaly Detection in Continuous-Time Temporal Provenance Graphs (Jakub Reha) <br />Graph Isomorphic Networks for Reliability Assessments in the MV Energy Grid (Charlotte Cambier van Nooten) <br /> Heterophily-Based Graph Neural Network for Imbalanced Classification (Yuntao Li) <br /> No time to waste: practical statistical contact tracing with few low-bit messages (Rob Romijnders) <br /> The Role of Personal Perspectives in Open-Domain Dialogue (Selene Baez Santamaria) <br /> Adapting Neural Link Predictors for Data-Efficient Complex Query Answering (Daniel Daza) |
+| 15:00-15:30 | Talk: Dulhan Jayalath and Jonas Jürß | Recursive Algorithmic Reasoning |
+| 16:00-16:30 | Talk: Hinrikus Wolf and Luca Oeljeklaus | Structural Node Embeddings w. Homomorphism Counts |
+| 16:45-17:15 | Talk: Tianqi Zhao | Multi-label Node Classification On Graph-Structured Data |
+| 17:15-19:00 |    Drinks   |    |
+| 19:00-20:00 | Keynote LoG |  Stefanie Jegelka   |
 
 
 ### 30 November
