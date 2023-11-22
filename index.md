@@ -66,9 +66,9 @@ By attending logAMS, you will have the opportunity to:
 
 ### 29 November
 
-|`     Time     ` |      `Event `     |  `Details` |
+|`     ` `Time` `     ` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-|  <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
+| 09:30 - 10:00 | Registration and coffee | |
 | 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
 | 10:15 - 10:45 | Talk: Miltos Kofinas | Neural Networks are Graphs! GNNs for equivariant processing of NNs  |
 | 10:45 - 11:15 | Talk: Taraneh Younesian  | GRAPES: Learning to sample graphs for scalable GNNs |
@@ -86,7 +86,7 @@ By attending logAMS, you will have the opportunity to:
 
 |`     Time     ` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
-| <div style="width:100px"> 09:30 - 10:00 </div>| Registration and coffee | |
+| 09:30 - 10:00| Registration and coffee | |
 | 10:00 - 10:15 | <div style="width:200"> Welcome </div>|                 |  |
 | 10:15 - 10:45 | Talk: Matthew Stephenson  |  |
 | 10:45 - 11:15 | Talk: Rob Romijnders  | No Time To Waste: practical statistical contact tracing with few low-bit messages |
