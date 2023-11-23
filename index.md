@@ -74,7 +74,7 @@ By attending logAMS, you will have the opportunity to:
 | 10:45 - 11:15 | Talk: Taraneh Younesian  | GRAPES: Learning to sample graphs for scalable GNNs |
 | 11:30 - 12:00 | Talk: Andrea Cavallo   | GNNs on heterophilous graphs |
 | 12:00 - 13:00 | Lunch | |
-| 13:00 - 15:00 | Poster Session |  Graph neural networks for metamodelling urban drainage systems (Alexander Garzón) <br /> Physics-Based Graph Neural Networks for Rapid Spatio-Temporal Flood Modelling (Roberto Bentivoglio) <br /> Anomaly Detection in Continuous-Time Temporal Provenance Graphs (Jakub Reha) <br />Graph Isomorphic Networks for Reliability Assessments in the MV Energy Grid (Charlotte Cambier van Nooten) <br /> Heterophily-Based Graph Neural Network for Imbalanced Classification (Yuntao Li) <br /> No time to waste: practical statistical contact tracing with few low-bit messages (Rob Romijnders) <br /> The Role of Personal Perspectives in Open-Domain Dialogue (Selene Baez Santamaria) <br /> Adapting Neural Link Predictors for Data-Efficient Complex Query Answering (Daniel Daza) |
+| 13:00 - 15:00 | Poster Session |  Graph neural networks for metamodelling urban drainage systems (Alexander Garzón) <br /> Physics-Based Graph Neural Networks for Rapid Spatio-Temporal Flood Modelling (Roberto Bentivoglio) <br /> Anomaly Detection in Continuous-Time Temporal Provenance Graphs (Jakub Reha) <br />Graph Isomorphic Networks for Reliability Assessments in the MV Energy Grid (Charlotte Cambier van Nooten) <br /> Heterophily-Based Graph Neural Network for Imbalanced Classification (Yuntao Li) <br /> No time to waste: practical statistical contact tracing with few low-bit messages (Rob Romijnders) <br /> The Role of Personal Perspectives in Open-Domain Dialogue (Selene Baez Santamaria) <br /> Adapting Neural Link Predictors for Data-Efficient Complex Query Answering (Daniel Daza)  <br /> Graph representation learning identifies repositionable drug candidates for HIV-1 (Andrew Foster) |
 | 15:00 - 15:30 | Talk: Dulhan Jayalath and Jonas Jürß | Recursive Algorithmic Reasoning |
 | 16:00 - 16:30 | Talk: Hinrikus Wolf and Luca Oeljeklaus | Structural Node Embeddings w. Homomorphism Counts |
 | 16:45 - 17:15 | Talk: Tianqi Zhao | Multi-label Node Classification On Graph-Structured Data |
@@ -93,8 +93,9 @@ By attending logAMS, you will have the opportunity to:
 | 11:30 - 12:00 | Talk: Megha Khosla   | Private Graph Reconstruction via Feature Explanations |
 | 12:00 - 13:00 | Lunch |  |
 | 13:00 - 15:00 | Poster Session | Deep Statistical Solver for Distribution System State Estimation (Benjamin Habib)<br /> Structural Node Embeddings with Homomorphism Counts (Hinrikus Wolf, Luca Oeljeklaus)<br /> Elemental Representations in Graph Neural Networks (Victor Kyllesbech) <br /> Neural Networks Are Graphs! Graph Neural Networks for Equivariant Processing of Neural Networks (Miltiadis (Miltos) Kofinas) <br /> Graph Neural Networks on heterophilous graphs: performance analysis and new architectures (Andrea Cavallo) <br /> Multi-label Node Classification On Graph-Structured Data (Tianqi Zhao) <br /> Hodge-aware learning on simplicial complexes (Maosheng Yang) <br/> Recursive Algorithmic Reasoning (Dulhan Jayalath and Jonas Jürß) |
-| 15:00 - 15:30 | Talk: Elvin Isufi |  GNNs in Stochastic Environment and ML on Higher Order Networks |
-| 15:30 - 17:00 |    Drinks   |    |
+| 15:00 - 15:30 | Talk: Elvin Isufi |  Graph Neural Networks over Random Graphs |
+| 15:30 - 16:00 | Talk: Andrew Foster |  Graph representation learning identifies repositionable drug candidates for HIV-1
+| 16:00 - 17:00 |    Drinks   |    |
 | 17:00 - 18:00 | Keynote LoG | Kyle Cranmer  |
 
 ## Registration
