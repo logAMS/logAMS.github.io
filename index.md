@@ -81,8 +81,8 @@ By attending logAMS, you will have the opportunity to:
 | 16:00 - 16:15 | Break | |
 | 16:15 - 16:45 | Talk: Hinrikus Wolf and Luca Oeljeklaus | Structural Node Embeddings w. Homomorphism Counts |
 | 16:45 - 17:15 | Talk: Tianqi Zhao | Multi-label Node Classification On Graph-Structured Data |
-| 17:15 - 19:00 |    Drinks   |    |
-| 19:00 - 20:00 | Keynote LoG |  Stefanie Jegelka   |
+| 17:15 - ~18:30 |    Drinks   |    |
+| ~18:30 -  | dinner |   |
 
 
 ### 30 November
