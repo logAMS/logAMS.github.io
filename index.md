@@ -68,7 +68,7 @@ TBA
 
 
 ## Registration
-Are you interested in attending logAMS? Please register with this [form]() -- link to be updated.
+Are you interested in attending logAMS? Please register with this [form](https://forms.gle/ayMm93tGrwsKdqZZ8).
 
 ## Contact
 
