@@ -76,14 +76,13 @@ For any inquiries or questions about logAMS, please feel free to get in touch wi
 
 
 ## Organisation ##
-* Michael Cochez 
-* Thom Pijnenburg
-* Taraneh Younesian
-* Romy vos
-* Elvin Isufi
-* Megha Khosla
-* Fabian Hoppe
-
+* Michael Cochez, VU University
+* Thom Pijnenburg, Elsevier
+* Taraneh Younesian, VU University
+* Romy Vos, VU University
+* Elvin Isufi, Delft University of Technology
+* Megha Khosla, Delft University of Technology
+* Fabian Hoppe, VU University
 
 <p align="center">
     <img src="./img/logams-organisers-logo.jpg" alt="logams-organisers" width="800px"/>
