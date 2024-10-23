@@ -79,10 +79,10 @@ For any inquiries or questions about logAMS, please feel free to get in touch wi
 * Michael Cochez 
 * Thom Pijnenburg
 * Taraneh Younesian
-* Selene Baez Santamaria
 * Romy vos
 * Elvin Isufi
 * Megha Khosla
+* Fabian Hoppe
 
 
 <p align="center">
