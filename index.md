@@ -89,18 +89,4 @@ For any inquiries or questions about logAMS, please feel free to get in touch wi
 </p>
 
 
-We are part of a global network of local meetups
-
-- 🇺🇸 Stanford, USA.
-- 🇩🇪 Munich, Germany.
-- [🇳🇱 Amsterdam, Netherlands](http://logams.github.io).
-- 🇨🇳 Shanghai, China.
-- 🇨🇭 Lausanne, Switzerland.
-- 🇫🇷 Paris, France.
-- 🇳🇴 Tromso, Norway.
-- 🇺🇸 Michigan, USA.
-- 🇪🇸 Madrid, Spain.
-- 🇨🇳 Beijing, China.
-- 🇮🇹 Trento, Italy.
-- 🇺🇸 New York, US.
-- 🇬🇧 London, UK.
+We are part of a global network of local meetups https://logconference.org/#accepted-local-meetups-for-log-2024
