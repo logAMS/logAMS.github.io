@@ -58,7 +58,7 @@ By attending logAMS, you will have the opportunity to:
 ## Dates
 
 * October 22, 2024. Registration opens.
-* November 11, 2024. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
+* November 14, 2024. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
 * November 25 + 26, 2024. Conference.
 
 
