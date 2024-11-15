@@ -65,7 +65,7 @@ By attending logAMS, you will have the opportunity to:
 ## Schedule
 
 
-### 25 November
+### Monday November 25
 
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
@@ -84,7 +84,7 @@ By attending logAMS, you will have the opportunity to:
 | 16:50 - 17:20 | Talk: Miltos Kofinas  | From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields |
 | 17:20 - ~18:30 |    Drinks   |    |
 
-### 26 November
+### Tuesday November 26
 
 |`Time` |      `Event `     |  `Details` |
 |:----------:|:-------------:|:------|
