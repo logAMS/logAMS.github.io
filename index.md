@@ -14,12 +14,12 @@ title: LogAMS 2024
 <a href="https://maps.app.goo.gl/8tT9rKREhpkXakK77">
     <img src="https://img.shields.io/badge/📍_Location-Amsterdam_NL-blue">
 </a>
-<img src="https://img.shields.io/badge/🗓️_Date_-November_25+26-blue">
+<img src="https://img.shields.io/badge/🗓️_Date_-November_26+27-blue">
 </p>
 
 
 <p align="center">
-Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 25 + 26, 2024.
+Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 26 + 27, 2024.
 </p>
 
 
@@ -39,7 +39,7 @@ The logAMS conference is a satellite event of the global LoG Conference, featuri
 
 ### Details
 
-* Meet-up on November 25 + 26, 2024.
+* Meet-up on November 26 + 27, 2024.
 * The event is **free** ✨ to attend.
 * Hosted by Elsevier at Radarweg 29a, 1043 NX Amsterdam. 
 * Coffee and lunch provided.
@@ -59,7 +59,7 @@ By attending logAMS, you will have the opportunity to:
 
 * October 22, 2024. Registration opens.
 * November 14, 2024. Registration closes. After this date we maintain a wait list and registrations are considered up to capacity. 
-* November 25 + 26, 2024. Conference.
+* November 26 + 27, 2024. Conference.
 
 
 ## Schedule
