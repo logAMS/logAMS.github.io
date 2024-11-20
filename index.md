@@ -73,7 +73,7 @@ By attending logAMS, you will have the opportunity to:
 | 10:00 - 10:30 | Invited Talk: Kubilay Atasu | Graph Machine Learning for Financial Crime Analysis  |
 | 10:30 - 11:00 | Invited Talk: Ralvi Isufaj  | Connecting the dots: Practical insights and considerations for building graph based recommender systems at scale  |
 | 11:00 - 11:20 | Break | |
-| 11:20 - 11:50 | Invited Talk: Deepak Patankar   | Graphs at Booking.com |
+| 11:20 - 11:50 | Invited Talk: Deepak Patankar   | Fraud Networks : Detecting fraudster webs through graphs |
 | 11:50 - 12:20 | Talk: Tianqi Zhao    | AGALE: A Graph-Aware Continual Learning Evaluation Framework  |
 | 12:20 - 13:20 | Lunch | |
 | 13:20 - 15:00 | Poster Session |  Topological Schrödinger Bridge Matching (Maosheng Yang) <br /> Bicycle Travel Time Estimation with Graph Neural Networks (Ting Gao) <br /> DNA: Differentially private Neural Augmentation for contact tracing (Rob Romijnders) <br /> AGALE: A Graph-Aware Continual Learning Evaluation Framework (Tianqi Zhao) <br /> Blind identification of overlapping communities from nodal observations ( Ruben Wijnands) <br /> Dataset condensation with latent quantile matching (Wei Wei) <br /> CYCLE: Cross-Year Contrastive Learning in Entity-Linking (Pengyu Zhang) <br /> Hodge-Aware Matched Subspace Detectors (Chengen Liu) <br /> xAI-Drop: Don’t Use What You Cannot Explain (Vincenzo Marco De Luca) <br /> Inverse Design of Copolymers Including Stoichiometry and Chain Architecture (Gabriel Vogel) <br /> Applications of TopoX to Topological Deep Learning (Martin Carrasco) <br /> Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph (Heloisa Oss Boll) <br /> Multi-type entity resolution (Alex Ridden) <br />  Joint Embedding Predictive Architecture for Self-supervised Pretraining on Polymer Molecular Graphs (Francesco Piccoli) <br /> Predicting Protein Dynamics of Cryptochrome using Generative Models (Dionessa Biton) |
@@ -82,7 +82,7 @@ By attending logAMS, you will have the opportunity to:
 | 16:00 - 16:20 | Break | |
 | 16:20 - 16:50 | Talk: Gaurav Rattan | Learning on Graphs with Weisfeiler-Leman  |
 | 16:50 - 17:20 | Talk: Ana Victória Ladeira  | From Mission Description to Knowledge Graph: Applying Transformer-based models to map knowledge from publicly available satellite datasets. |
-| 17:20 - ~18:30 |    Close & Networking   |    |
+| 17:20 - ~18:30 | Drinks      |    |
 
 
 
@@ -104,7 +104,7 @@ By attending logAMS, you will have the opportunity to:
 | 16:00 - 16:20 | Break | |
 | 16:20 - 16:50 | Talk: Maosheng Yang  | Topological Schrödinger Bridge Matching |
 | 16:50 - 17:20 | Talk: Miltos Kofinas  | From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields |
-| 17:20 - ~18:30 |    Drinks   |    |
+| 17:20 - ~18:30 |    Close & Networking    |    |
 
 
 
