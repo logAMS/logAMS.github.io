@@ -19,13 +19,14 @@ title: LogAMS 2024
 
 
 <p align="center">
-Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 26 + 27, 2024.
+Welcome to the website for <strong>LoGAMS</strong>, the Amsterdam meetup for the global <a href="https://logconference.org">LoG Conference</a>. Hosted by Elsevier & Vrije Universiteit Amsterdam on November 26 + 27, 2024.
 </p>
 
 
 <p align="center">
   <a href="#about">About</a> •
   <a href="#dates">Dates</a> •
+  <a href="#schedule">Schedule</a> •
   <a href="#registration">Registration</a> •
   <a href="#contact">Contact</a> •
   <a href="#organisation">Organisation</a>
@@ -34,8 +35,10 @@ Welcome to the website for <strong>logAMS</strong>, the Amsterdam meetup for the
 
 ## About
 
-The logAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry.
+The LoGAMS conference is a satellite event of the global LoG Conference, featuring talks, posters and networking opportunities, aiming to bring together the local community in graph machine learning and geometry.
 
+> #### ⚠️ Updated Schedule <br/>
+> Due to external circumstances the schedule of LoGAMS has shifted from November 25 + 26 -> **November 26 + 27**.
 
 ### Details
 
@@ -48,7 +51,7 @@ The logAMS conference is a satellite event of the global LoG Conference, featuri
 
 ## Agenda
 
-By attending logAMS, you will have the opportunity to:
+By attending LoGAMS, you will have the opportunity to:
 * Learn from leading experts in the field through keynote talks and research presentations. 
 * Network with fellow researchers, professionals, and enthusiasts in the community. 
 * Share your own research and insights during poster sessions and interactive discussions. 
@@ -98,7 +101,7 @@ By attending logAMS, you will have the opportunity to:
 | 11:20 - 11:50 | Talk: Klim Zaporojets   | CYCLE: Cross-Year Contrastive Learning in Entity-Linking |
 | 11:50 - 12:20 | Talk: Andrea Cavallo    | Spatiotemporal covariance neural networks |
 | 12:20 - 13:20 | Lunch | |
-| 13:20 - 15:00 | Poster Session |  From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields (Miltos Kofinas) <br /> Relative Representations: Topological and Geometric Perspectives (Alejandro Garcia Castellanos)  <br /> IID Relaxation by Logical Expressivity: A Research Agenda for Fitting Logics to Neurosymbolic Requirements (Maarten Stol) <br /> Uncertainty Quantification for GNNs(Charlotte Cambier van Nooten) <br /> Explaining Graph Neural Networks for Node Similarity on Graphs (Daniel Daza) <br /> Learning Graph Neural Networks using Exact Compression (Jeroen Bollen) <br /> Explainable Graph Neural Networks Under Fire (Zhong Li) <br /> Quantum Computing for Power Flow Analysis (Zeynab Kaseb) <br /> Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning (Stavros Orfanoudakis) <br /> Guiding diffusion models for antibody sequence and structure co-design with developability properties (Amelia Villegas-Morcillo) <br /> PowerNet: Truncated Matrix Power Series as Quasi-Equivariant Layers (Alex Gabel) <br /> Understanding Feature/Structure Interplay in Graph Neural Networks (Diana Gomes) |
+| 13:20 - 15:00 | Poster Session |  From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields (Miltos Kofinas) <br /> Relative Representations: Topological and Geometric Perspectives (Alejandro Garcia Castellanos)  <br /> IID Relaxation by Logical Expressivity: A Research Agenda for Fitting Logics to Neurosymbolic Requirements (Maarten Stol) <br /> Uncertainty Quantification for GNNs (Charlotte Cambier van Nooten) <br /> Explaining Graph Neural Networks for Node Similarity on Graphs (Daniel Daza) <br /> Learning Graph Neural Networks using Exact Compression (Jeroen Bollen) <br /> Explainable Graph Neural Networks Under Fire (Zhong Li) <br /> Quantum Computing for Power Flow Analysis (Zeynab Kaseb) <br /> Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning (Stavros Orfanoudakis) <br />  PowerNet: Truncated Matrix Power Series as Quasi-Equivariant Layers (Alex Gabel) <br /> Understanding Feature/Structure Interplay in Graph Neural Networks (Diana Gomes) |
 | 15:00 - 15:30 | Talk: Maarten Stol  | IID Relaxation by Logical Expressivity: A Research Agenda for Fitting Logics to Neurosymbolic Requirements |
 | 15:30 - 16:00 | Talk: Alex Gabel  | PowerNet: Truncated Matrix Power Series as Quasi-Equivariant Layers |
 | 16:00 - 16:20 | Break | |
@@ -112,11 +115,11 @@ By attending logAMS, you will have the opportunity to:
 
 
 ## Registration
-Are you interested in attending logAMS? Please register with this [form](https://forms.gle/ayMm93tGrwsKdqZZ8).
+Are you interested in attending LoGAMS? Please register with this [form](https://forms.gle/ayMm93tGrwsKdqZZ8).
 
 ## Contact
 
-For any inquiries or questions about logAMS, please feel free to get in touch with our organising team.
+For any inquiries or questions about LoGAMS, please feel free to get in touch with our organising team.
 
 
 ## Organisation ##
